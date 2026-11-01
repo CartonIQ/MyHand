@@ -26,25 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Home & Drawing</b></td>
-      <td align="center"><b>Editor & Signatures</b></td>
-      <td align="center"><b>Stickers & Letters</b></td>
-    </tr>
-    <tr>
-      <td align="center"><i>Add your screenshot here</i></td>
-      <td align="center"><i>Add your screenshot here</i></td>
-      <td align="center"><i>Add your screenshot here</i></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## ✨ Features
 
 - 🎨 **Draw** — Write your own letters effortlessly.
