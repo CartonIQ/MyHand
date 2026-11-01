@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyHand</string>
+    <!-- GOOGLE TEST IDS. Replace with your own AdMob IDs only for the final release build. -->
+    <string name="admob_app_id">ca-app-pub-9771662959477951~7534792856</string>
+    <string name="admob_banner">ca-app-pub-9771662959477951/8520571467</string>
+</resources>
